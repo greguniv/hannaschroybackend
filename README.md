@@ -1,4 +1,4 @@
-# CRUD Operations Currently Available
+# CRUD Operations Available
 ```
 GET    | api/v1/allcontact         | Retrieves all Names, Emails, and Messages in database
 POST   | api/v1/addcontact         | Adds a person into the database with their Name, Email, and Message
